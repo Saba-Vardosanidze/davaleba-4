@@ -1,0 +1,52 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f6f7f9;
+}
+.carbox {
+  width: 304px;
+  height: 388px;
+  border-radius: 10px;
+  margin: 206px auto;
+  background-color: white;
+}
+.CarName {
+  padding: 24px 152px 88px 24px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.CarKonigsegg {
+  margin: 0px 36px 64px 36px;
+}
+.CarDetail {
+  color: #90a3bf;
+  margin-top: 64px;
+  margin-bottom: 24px;
+}
+.fuel {
+  padding: 64px 16px 24px 68px;
+}
+.user {
+  padding-left: 16pxs;
+}
+.manual {
+  padding: 64px 16px 24px 0px;
+}
+.RentNow {
+  width: 116px;
+  height: 44px;
+  border-radius: 4px;
+  background-color: #3563e9;
+  color: white;
+  border: none;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.RentButton {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px 24px 24px 24px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  justify-content: space-between;
+}
